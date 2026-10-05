@@ -99,7 +99,7 @@ int main()
 //
 // Step 5 : Test the program
 //
-//          Tested test csaes
+//          Tested test cases
 // -------------------------------
 //    Input 1   Input 2  Output
 // -------------------------------
