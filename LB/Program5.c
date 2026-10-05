@@ -1,4 +1,4 @@
-/* 
+/*
 
     Step 1 : Understand the problem statement
     Step 2 : Write the program

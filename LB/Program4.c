@@ -19,7 +19,6 @@
 ////////////////////////////////////////////////////////
 //
 // Step 2  : Write the program
-//
 /*
     START
       Accept first number as No1
