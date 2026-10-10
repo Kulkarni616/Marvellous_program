@@ -11,8 +11,8 @@
 ////////////////////////////////////////////////////////
 //
 // Step 1 : Understand the problem statements
-//          user is going to enter any 2 integers
-//          and we have to perform addition
+//          User is going to enter any 2 integers
+//          And we have to perform addition
 //
 ////////////////////////////////////////////////////////
 
